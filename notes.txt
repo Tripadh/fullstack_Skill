@@ -1,1 +1,1 @@
-"Git basics notes"
+"Git basics notes""// Bug fix applied" 
